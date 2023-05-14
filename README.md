@@ -6,7 +6,7 @@ Desafio: Com o intuito de aprimorar os processos de atendimento, há a necessida
 
 Objetivo de aprendizagem:
 
-Aplicar de forma prática os conhecimentos de https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg,https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg  e https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg  para a criação de uma API;
+Aplicar de forma prática os conhecimentos de <link rel="stylesheet" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">,<link rel='"stylesheet' href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">  e <link rel='"stylesheet' href= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> para a criação de uma API;
 Utilizar os frameworks Express e Sequelize;
 Realizar a validação dos dados recebidos pela API;
 Fornecer feedback de erros adequados aos usuários.
