@@ -1,6 +1,6 @@
 # gama-la-vie
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
           
 Link da api ->https://carloscavalcante97.github.io/gama-la-vie/
 
