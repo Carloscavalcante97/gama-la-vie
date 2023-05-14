@@ -11,9 +11,7 @@ Objetivo de aprendizagem:
 
 Linguagens utilizadas no projeto:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" />
 
 Utilizar os frameworks Express e Sequelize;
 Realizar a validação dos dados recebidos pela API;
