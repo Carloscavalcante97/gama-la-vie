@@ -1,5 +1,7 @@
 # gama-la-vie
 Link da api ->https://carloscavalcante97.github.io/gama-la-vie/
+
+
 Desafio: Com o intuito de aprimorar os processos de atendimento, há a necessidade de desenvolver uma API capaz de criar registros de psicólogos, pacientes e prontuários. Durante uma discussão com a equipe de desenvolvimento front-end e os proprietários do produto (Product Owners), foram estabelecidos os grupos de endpoints que devem ser implementados.
 
 Objetivo de aprendizagem:
